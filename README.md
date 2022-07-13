@@ -1,4 +1,4 @@
-# Exercicios simples para práticar em JavaScript com resoluções
+# Exercicios simples para práticar JavaScript com resoluções
 
 ## Como rodar
 1. Clonar o projeto: 
